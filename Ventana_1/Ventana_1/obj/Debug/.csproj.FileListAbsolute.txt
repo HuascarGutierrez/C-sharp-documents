@@ -1,0 +1,3 @@
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\Ventana_1\Ventana_1\bin\Debug\Ventana_1.exe.config
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\Ventana_1\Ventana_1\obj\Debug\Ventana_1.exe
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\Ventana_1\Ventana_1\obj\Debug\Ventana_1.pdb

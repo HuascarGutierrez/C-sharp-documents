@@ -1,0 +1,9 @@
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe.config
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.exe
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\bin\Debug\WindowsFormsApplication10.pdb
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csprojResolveAssemblyReference.cache
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Form1.resources
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.Properties.Resources.resources
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.csproj.GenerateResource.Cache
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.exe
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\WindowsFormsApplication10\WindowsFormsApplication10\obj\Debug\WindowsFormsApplication10.pdb

@@ -1,0 +1,12 @@
+c:\users\usuario\documents\visual studio 2012\Projects\Práctica I C_sharp H. Gutierrez\Práctica I C_sharp H. Gutierrez\bin\Debug\Práctica_I_C_sharp_H.Gutierrez.exe.config
+c:\users\usuario\documents\visual studio 2012\Projects\Práctica I C_sharp H. Gutierrez\Práctica I C_sharp H. Gutierrez\bin\Debug\Práctica_I_C_sharp_H.Gutierrez.exe
+c:\users\usuario\documents\visual studio 2012\Projects\Práctica I C_sharp H. Gutierrez\Práctica I C_sharp H. Gutierrez\bin\Debug\Práctica_I_C_sharp_H.Gutierrez.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\Práctica I C_sharp H. Gutierrez\Práctica I C_sharp H. Gutierrez\obj\Debug\Práctica I C_sharp H. Gutierrez.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2012\Projects\Práctica I C_sharp H. Gutierrez\Práctica I C_sharp H. Gutierrez\obj\Debug\Práctica_I_C_sharp_H.Gutierrez.Form1.resources
+c:\users\usuario\documents\visual studio 2012\Projects\Práctica I C_sharp H. Gutierrez\Práctica I C_sharp H. Gutierrez\obj\Debug\Práctica_I_C_sharp_H.Gutierrez.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2012\Projects\Práctica I C_sharp H. Gutierrez\Práctica I C_sharp H. Gutierrez\obj\Debug\Práctica I C_sharp H. Gutierrez.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2012\Projects\Práctica I C_sharp H. Gutierrez\Práctica I C_sharp H. Gutierrez\obj\Debug\Práctica_I_C_sharp_H.Gutierrez.exe
+c:\users\usuario\documents\visual studio 2012\Projects\Práctica I C_sharp H. Gutierrez\Práctica I C_sharp H. Gutierrez\obj\Debug\Práctica_I_C_sharp_H.Gutierrez.pdb
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\Práctica I C_sharp H. Gutierrez\Práctica I C_sharp H. Gutierrez\bin\Debug\Práctica_I_C_sharp_H.Gutierrez.exe.config
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\Práctica I C_sharp H. Gutierrez\Práctica I C_sharp H. Gutierrez\obj\Debug\Práctica_I_C_sharp_H.Gutierrez.exe
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\Práctica I C_sharp H. Gutierrez\Práctica I C_sharp H. Gutierrez\obj\Debug\Práctica_I_C_sharp_H.Gutierrez.pdb

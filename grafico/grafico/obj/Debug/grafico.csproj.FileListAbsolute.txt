@@ -1,0 +1,9 @@
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\grafico\grafico\bin\Debug\grafico.exe.config
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\grafico\grafico\bin\Debug\grafico.exe
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\grafico\grafico\bin\Debug\grafico.pdb
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\grafico\grafico\obj\Debug\grafico.csprojResolveAssemblyReference.cache
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\grafico\grafico\obj\Debug\grafico.Form1.resources
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\grafico\grafico\obj\Debug\grafico.Properties.Resources.resources
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\grafico\grafico\obj\Debug\grafico.csproj.GenerateResource.Cache
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\grafico\grafico\obj\Debug\grafico.exe
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\grafico\grafico\obj\Debug\grafico.pdb

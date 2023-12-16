@@ -1,0 +1,8 @@
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\progra_3\progra_3\bin\Debug\progra_3.exe.config
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\progra_3\progra_3\bin\Debug\progra_3.exe
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\progra_3\progra_3\bin\Debug\progra_3.pdb
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\progra_3\progra_3\obj\Debug\progra_3.Form1.resources
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\progra_3\progra_3\obj\Debug\progra_3.Properties.Resources.resources
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\progra_3\progra_3\obj\Debug\progra_3.csproj.GenerateResource.Cache
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\progra_3\progra_3\obj\Debug\progra_3.exe
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\progra_3\progra_3\obj\Debug\progra_3.pdb

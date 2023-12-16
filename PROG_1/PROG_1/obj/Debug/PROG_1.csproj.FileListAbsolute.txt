@@ -1,0 +1,9 @@
+c:\users\huasc\documents\visual studio 2012\Projects\PROG_1\PROG_1\bin\Debug\PROG_1.exe.config
+c:\users\huasc\documents\visual studio 2012\Projects\PROG_1\PROG_1\bin\Debug\PROG_1.exe
+c:\users\huasc\documents\visual studio 2012\Projects\PROG_1\PROG_1\bin\Debug\PROG_1.pdb
+c:\users\huasc\documents\visual studio 2012\Projects\PROG_1\PROG_1\obj\Debug\PROG_1.csprojResolveAssemblyReference.cache
+c:\users\huasc\documents\visual studio 2012\Projects\PROG_1\PROG_1\obj\Debug\PROG_1.Form1.resources
+c:\users\huasc\documents\visual studio 2012\Projects\PROG_1\PROG_1\obj\Debug\PROG_1.Properties.Resources.resources
+c:\users\huasc\documents\visual studio 2012\Projects\PROG_1\PROG_1\obj\Debug\PROG_1.csproj.GenerateResource.Cache
+c:\users\huasc\documents\visual studio 2012\Projects\PROG_1\PROG_1\obj\Debug\PROG_1.exe
+c:\users\huasc\documents\visual studio 2012\Projects\PROG_1\PROG_1\obj\Debug\PROG_1.pdb

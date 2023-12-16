@@ -1,0 +1,12 @@
+C:\Users\USER\OneDrive\Documentos\EMI\4to Semestre\Programacion_avanzada\tarea1\Ventana_7\Ventana_7\bin\Debug\Ventana_7.exe.config
+C:\Users\USER\OneDrive\Documentos\EMI\4to Semestre\Programacion_avanzada\tarea1\Ventana_7\Ventana_7\bin\Debug\Ventana_7.exe
+C:\Users\USER\OneDrive\Documentos\EMI\4to Semestre\Programacion_avanzada\tarea1\Ventana_7\Ventana_7\bin\Debug\Ventana_7.pdb
+C:\Users\USER\OneDrive\Documentos\EMI\4to Semestre\Programacion_avanzada\tarea1\Ventana_7\Ventana_7\obj\Debug\Ventana_7.csprojResolveAssemblyReference.cache
+C:\Users\USER\OneDrive\Documentos\EMI\4to Semestre\Programacion_avanzada\tarea1\Ventana_7\Ventana_7\obj\Debug\Ventana_7.Form1.resources
+C:\Users\USER\OneDrive\Documentos\EMI\4to Semestre\Programacion_avanzada\tarea1\Ventana_7\Ventana_7\obj\Debug\Ventana_7.Properties.Resources.resources
+C:\Users\USER\OneDrive\Documentos\EMI\4to Semestre\Programacion_avanzada\tarea1\Ventana_7\Ventana_7\obj\Debug\Ventana_7.csproj.GenerateResource.Cache
+C:\Users\USER\OneDrive\Documentos\EMI\4to Semestre\Programacion_avanzada\tarea1\Ventana_7\Ventana_7\obj\Debug\Ventana_7.exe
+C:\Users\USER\OneDrive\Documentos\EMI\4to Semestre\Programacion_avanzada\tarea1\Ventana_7\Ventana_7\obj\Debug\Ventana_7.pdb
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\Ventana_7\Ventana_7\bin\Debug\Ventana_7.exe.config
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\Ventana_7\Ventana_7\obj\Debug\Ventana_7.exe
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\Ventana_7\Ventana_7\obj\Debug\Ventana_7.pdb

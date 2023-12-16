@@ -1,0 +1,15 @@
+c:\users\usuario\documents\visual studio 2012\Projects\Practica II C_Sharp H. Gutierrez\Practica II C_Sharp H. Gutierrez\bin\Debug\Practica_II_C_Sharp_H.Gutierrez.exe.config
+c:\users\usuario\documents\visual studio 2012\Projects\Practica II C_Sharp H. Gutierrez\Practica II C_Sharp H. Gutierrez\bin\Debug\Practica_II_C_Sharp_H.Gutierrez.exe
+c:\users\usuario\documents\visual studio 2012\Projects\Practica II C_Sharp H. Gutierrez\Practica II C_Sharp H. Gutierrez\bin\Debug\Practica_II_C_Sharp_H.Gutierrez.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\Practica II C_Sharp H. Gutierrez\Practica II C_Sharp H. Gutierrez\obj\Debug\Practica II C_Sharp H. Gutierrez.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2012\Projects\Practica II C_Sharp H. Gutierrez\Practica II C_Sharp H. Gutierrez\obj\Debug\Practica_II_C_Sharp_H.Gutierrez.Form1.resources
+c:\users\usuario\documents\visual studio 2012\Projects\Practica II C_Sharp H. Gutierrez\Practica II C_Sharp H. Gutierrez\obj\Debug\Practica_II_C_Sharp_H.Gutierrez.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2012\Projects\Practica II C_Sharp H. Gutierrez\Practica II C_Sharp H. Gutierrez\obj\Debug\Practica II C_Sharp H. Gutierrez.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2012\Projects\Practica II C_Sharp H. Gutierrez\Practica II C_Sharp H. Gutierrez\obj\Debug\Practica_II_C_Sharp_H.Gutierrez.exe
+c:\users\usuario\documents\visual studio 2012\Projects\Practica II C_Sharp H. Gutierrez\Practica II C_Sharp H. Gutierrez\obj\Debug\Practica_II_C_Sharp_H.Gutierrez.pdb
+C:\Users\USUARIO\Desktop\Gutierrez Castro Huascar Aaron\Practica II C_Sharp H. Gutierrez\Practica II C_Sharp H. Gutierrez\bin\Debug\Practica_II_C_Sharp_H.Gutierrez.exe.config
+C:\Users\USUARIO\Desktop\Gutierrez Castro Huascar Aaron\Practica II C_Sharp H. Gutierrez\Practica II C_Sharp H. Gutierrez\obj\Debug\Practica_II_C_Sharp_H.Gutierrez.exe
+C:\Users\USUARIO\Desktop\Gutierrez Castro Huascar Aaron\Practica II C_Sharp H. Gutierrez\Practica II C_Sharp H. Gutierrez\obj\Debug\Practica_II_C_Sharp_H.Gutierrez.pdb
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\Practica II C_Sharp H. Gutierrez\Practica II C_Sharp H. Gutierrez\bin\Debug\Practica_II_C_Sharp_H.Gutierrez.exe.config
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\Practica II C_Sharp H. Gutierrez\Practica II C_Sharp H. Gutierrez\obj\Debug\Practica_II_C_Sharp_H.Gutierrez.exe
+C:\Users\huasc\Documents\Visual Studio 2012\Projects\Practica II C_Sharp H. Gutierrez\Practica II C_Sharp H. Gutierrez\obj\Debug\Practica_II_C_Sharp_H.Gutierrez.pdb
